@@ -1,4 +1,4 @@
-# Next (Basic) Starter
+# Next Redux (Toolkit) Starter
 
 ### The template for a quick and intuitive workflow with Next.js and tailwindcss
 
